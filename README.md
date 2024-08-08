@@ -24,7 +24,7 @@ Carrot: Similar to Bricks, this routine handles the display of carrots on the sc
 
 ## Potential Functionalities
 
-The game logic seems to involve:
+The game logic involves:
 
 Jumping: The rabbit can jump over obstacles, possibly bricks.
 
